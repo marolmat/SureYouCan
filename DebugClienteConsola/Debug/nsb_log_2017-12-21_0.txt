@@ -1,0 +1,615 @@
+﻿2017-12-21 16:00:51.361 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 16:00:51.463 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 16:00:51.487 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 16:00:51.528 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 16:00:51.534 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 16:00:51.540 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 16:01:25.588 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-12-21 16:01:25.602 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-12-21 16:04:20.552 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 16:04:20.629 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 16:04:20.657 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 16:04:20.694 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 16:04:20.701 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 16:04:20.708 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 16:04:23.130 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-12-21 16:04:23.145 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-12-21 16:12:29.872 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 16:12:29.949 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 16:12:29.979 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 16:12:30.016 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 16:12:30.027 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 16:12:30.034 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 16:12:31.610 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-12-21 16:12:31.624 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-12-21 17:48:34.156 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 17:48:34.502 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 17:48:34.527 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 17:48:34.567 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 17:48:34.574 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 17:48:34.581 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 17:48:34.602 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 17:48:40.691 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 121
+2017-12-21 17:48:40.812 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 17:48:40.861 INFO  ClienteConsola.MessageHandler Received DarAltaContadorAgua, Numero de Serie = 121
+2017-12-21 17:54:38.182 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 121
+2017-12-21 17:54:38.229 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 17:54:38.244 INFO  ClienteConsola.MessageHandler Received DarAltaContadorAgua, Numero de Serie = 121
+2017-12-21 17:54:49.149 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-12-21 17:54:49.206 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-12-21 19:45:23.166 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 19:46:08.023 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 19:46:08.421 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 19:46:08.452 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 19:46:08.499 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 19:46:08.499 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 19:46:08.515 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 19:46:08.530 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 19:46:10.949 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 121
+2017-12-21 19:46:11.074 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 19:46:11.132 INFO  ClienteConsola.MessageHandler Received DarAltaContadorAgua, Numero de Serie = 121
+2017-12-21 19:46:15.841 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-12-21 19:46:15.873 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-12-21 20:55:42.852 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 20:55:43.233 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 20:55:43.260 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 20:55:43.300 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 20:55:43.307 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 20:55:43.314 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 20:55:43.355 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 20:55:46.001 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3242
+2017-12-21 20:55:46.104 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 22:32:26.587 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 22:32:26.930 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 22:32:26.955 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 22:32:26.998 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 22:32:27.006 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 22:32:27.012 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 22:32:27.045 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 22:32:34.352 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3242
+2017-12-21 22:32:34.460 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 22:33:42.393 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 22:33:42.810 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 22:33:42.845 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 22:33:42.882 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 22:33:42.889 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 22:33:42.897 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 22:33:42.949 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 22:33:46.624 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3242
+2017-12-21 22:33:46.719 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 22:33:53.564 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-12-21 22:33:53.615 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-12-21 23:01:43.527 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:01:44.064 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:01:44.089 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:01:44.128 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:01:44.135 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:01:44.142 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:01:44.198 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:01:48.846 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3242
+2017-12-21 23:01:48.953 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:02:41.740 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3242
+2017-12-21 23:02:41.785 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:02:41.899 INFO  ClienteConsola.Program Unknown input. Please try again.
+2017-12-21 23:02:41.906 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:03:23.188 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-12-21 23:03:23.243 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-12-21 23:04:53.590 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:04:53.953 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:04:53.982 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:04:54.024 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:04:54.031 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:04:54.038 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:04:54.070 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:05:54.771 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:05:55.155 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:05:55.183 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:05:55.222 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:05:55.230 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:05:55.237 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:05:55.290 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:11:15.924 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:11:16.234 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:11:16.261 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:11:16.302 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:11:16.309 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:11:16.317 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:11:16.371 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:11:18.741 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3242
+2017-12-21 23:11:18.837 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:11:21.602 INFO  NServiceBus.Unicast.UnicastBus Initiating shutdown.
+2017-12-21 23:11:21.667 INFO  NServiceBus.Unicast.UnicastBus Shutdown complete.
+2017-12-21 23:13:48.567 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:13:49.008 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:13:49.035 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:13:49.079 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:13:49.089 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:13:49.098 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:13:49.131 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:14:27.547 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3242
+2017-12-21 23:14:27.634 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:23:04.315 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:23:04.721 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:23:04.754 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:23:04.809 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:04.823 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:04.834 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:04.871 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:23:30.702 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:23:31.049 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:23:31.082 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:23:31.127 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:31.135 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:31.142 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:31.175 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:24:04.018 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:24:04.405 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:24:04.430 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:24:04.470 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:24:04.478 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:24:04.485 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:24:04.536 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:24:12.225 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3242
+2017-12-21 23:24:12.284 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:24:32.018 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message '3eee36d6-200b-4d59-bd73-a8500171327b' because of an exception:
+System.InvalidOperationException: No connection string named 'MRSchneiderEntities' could be found in the application config file.
+   en System.Data.Entity.Internal.LazyInternalConnection.get_ConnectionHasModel()
+   en System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   en System.Data.Entity.Internal.InternalContext.Initialize()
+   en System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   en System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   en System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   en System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   en System.Data.Entity.Internal.Linq.InternalSet`1.Add(Object entity)
+   en System.Data.Entity.DbSet`1.Add(TEntity entity)
+   en ClienteFormulario.CapaCRUD.ContadoresAguaController.Create(ContadoresAgua obj) en C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ManuerlRoldan_SchneiderE\CapaCRUD\ContadoresAguaController.cs:línea 17
+   en MyClassLibrary.EventsHandler.Handle(DispositivoDadoDeAlta message, IMessageHandlerContext context) en C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\MyClassLibrary\MyClassLibrary\EventsHandler.cs:línea 27
+   en lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   en NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:línea 43
+   en NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:línea 24
+   en NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:línea 27
+   en lambda_method(Closure , IInvokeHandlerContext )
+   en NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 33
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:26:39.718 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:26:40.182 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:26:40.208 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:26:40.258 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:26:40.265 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:26:40.272 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:26:40.331 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:27:24.436 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:27:24.844 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:27:24.869 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:27:24.908 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:27:24.915 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:27:24.921 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:27:24.954 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:30:00.792 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:30:01.274 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:30:01.301 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:30:01.341 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:30:01.349 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:30:01.356 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:30:01.392 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:30:28.205 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3242
+2017-12-21 23:30:28.297 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:30:41.875 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'dc7498fb-9ccc-4598-b725-a8500172eb0f' because of an exception:
+System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Infracción de la restricción UNIQUE KEY 'IX_ContadoresAgua'. No se puede insertar una clave duplicada en el objeto 'dbo.ContadoresAgua'. El valor de la clave duplicada es (3242).
+Se terminó la instrucción.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<Reader>b__c(DbCommand t, DbCommandInterceptionContext`1 c)
+   en System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   en System.Data.Entity.Internal.InterceptableDbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   en System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.<Update>b__2(UpdateTranslator ut)
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update[T](T noChangesResult, Func`2 updateFunction)
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update()
+   en System.Data.Entity.Core.Objects.ObjectContext.<SaveChangesToStore>b__35()
+   en System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   en System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   en System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en ClienteFormulario.CapaCRUD.ContadoresAguaController.Create(ContadoresAgua obj) en C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ManuerlRoldan_SchneiderE\CapaCRUD\ContadoresAguaController.cs:línea 18
+   en MyClassLibrary.EventsHandler.Handle(DispositivoDadoDeAlta message, IMessageHandlerContext context) en C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\MyClassLibrary\MyClassLibrary\EventsHandler.cs:línea 27
+   en lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   en NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:línea 43
+   en NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:línea 24
+   en NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:línea 27
+   en lambda_method(Closure , IInvokeHandlerContext )
+   en NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 33
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:33:03.865 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:33:04.298 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:33:04.326 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:33:04.369 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:33:04.378 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:33:04.385 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:33:04.420 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:33:27.023 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'dc7498fb-9ccc-4598-b725-a8500172eb0f' because of an exception:
+System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Infracción de la restricción UNIQUE KEY 'IX_ContadoresAgua'. No se puede insertar una clave duplicada en el objeto 'dbo.ContadoresAgua'. El valor de la clave duplicada es (3242).
+Se terminó la instrucción.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<Reader>b__c(DbCommand t, DbCommandInterceptionContext`1 c)
+   en System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   en System.Data.Entity.Internal.InterceptableDbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   en System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.<Update>b__2(UpdateTranslator ut)
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update[T](T noChangesResult, Func`2 updateFunction)
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update()
+   en System.Data.Entity.Core.Objects.ObjectContext.<SaveChangesToStore>b__35()
+   en System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   en System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   en System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en ClienteFormulario.CapaCRUD.ContadoresAguaController.Create(ContadoresAgua obj) en C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ManuerlRoldan_SchneiderE\CapaCRUD\ContadoresAguaController.cs:línea 18
+   en MyClassLibrary.EventsHandler.Handle(DispositivoDadoDeAlta message, IMessageHandlerContext context) en C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\MyClassLibrary\MyClassLibrary\EventsHandler.cs:línea 27
+   en lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   en NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:línea 43
+   en NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:línea 24
+   en NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:línea 27
+   en lambda_method(Closure , IInvokeHandlerContext )
+   en NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MutateIncomingMessageBehavior.<InvokeIncomingMessageMutators>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\MessageMutators\MutateInstanceMessage\MutateIncomingMessageBehavior.cs:línea 44
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 33
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.UnitOfWorkBehavior.<InvokeUnitsOfWork>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en NServiceBus.UnitOfWorkBehavior.<InvokeUnitsOfWork>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:línea 62
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MutateIncomingTransportMessageBehavior.<InvokeIncomingTransportMessagesMutators>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\MessageMutators\MutateTransportMessage\MutateIncomingTransportMessageBehavior.cs:línea 43
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:33:28.769 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'dc7498fb-9ccc-4598-b725-a8500172eb0f' because of an exception:
+System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Infracción de la restricción UNIQUE KEY 'IX_ContadoresAgua'. No se puede insertar una clave duplicada en el objeto 'dbo.ContadoresAgua'. El valor de la clave duplicada es (3242).
+Se terminó la instrucción.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<Reader>b__c(DbCommand t, DbCommandInterceptionContext`1 c)
+   en System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   en System.Data.Entity.Internal.InterceptableDbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   en System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.<Update>b__2(UpdateTranslator ut)
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update[T](T noChangesResult, Func`2 updateFunction)
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update()
+   en System.Data.Entity.Core.Objects.ObjectContext.<SaveChangesToStore>b__35()
+   en System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   en System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   en System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en ClienteFormulario.CapaCRUD.ContadoresAguaController.Create(ContadoresAgua obj) en C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ManuerlRoldan_SchneiderE\CapaCRUD\ContadoresAguaController.cs:línea 18
+   en MyClassLibrary.EventsHandler.Handle(DispositivoDadoDeAlta message, IMessageHandlerContext context) en C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\MyClassLibrary\MyClassLibrary\EventsHandler.cs:línea 27
+   en lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   en NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:línea 43
+   en NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:línea 24
+   en NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:línea 27
+   en lambda_method(Closure , IInvokeHandlerContext )
+   en NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 33
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:33:29.354 INFO  NServiceBus.RecoverabilityExecutor Immediate Retry is going to retry message 'dc7498fb-9ccc-4598-b725-a8500172eb0f' because of an exception:
+System.Data.Entity.Infrastructure.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.Entity.Core.UpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Infracción de la restricción UNIQUE KEY 'IX_ContadoresAgua'. No se puede insertar una clave duplicada en el objeto 'dbo.ContadoresAgua'. El valor de la clave duplicada es (3242).
+Se terminó la instrucción.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   en System.Data.SqlClient.SqlDataReader.get_MetaData()
+   en System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   en System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   en System.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.<Reader>b__c(DbCommand t, DbCommandInterceptionContext`1 c)
+   en System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext,TResult](TTarget target, Func`3 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   en System.Data.Entity.Infrastructure.Interception.DbCommandDispatcher.Reader(DbCommand command, DbCommandInterceptionContext interceptionContext)
+   en System.Data.Entity.Internal.InterceptableDbCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   en System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   en System.Data.Entity.Core.Mapping.Update.Internal.DynamicUpdateCommand.Execute(Dictionary`2 identifierValues, List`1 generatedValues)
+   en System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.<Update>b__2(UpdateTranslator ut)
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update[T](T noChangesResult, Func`2 updateFunction)
+   en System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update()
+   en System.Data.Entity.Core.Objects.ObjectContext.<SaveChangesToStore>b__35()
+   en System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   en System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   en System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   en System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Data.Entity.Internal.InternalContext.SaveChanges()
+   en System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   en System.Data.Entity.DbContext.SaveChanges()
+   en ClienteFormulario.CapaCRUD.ContadoresAguaController.Create(ContadoresAgua obj) en C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ManuerlRoldan_SchneiderE\CapaCRUD\ContadoresAguaController.cs:línea 18
+   en MyClassLibrary.EventsHandler.Handle(DispositivoDadoDeAlta message, IMessageHandlerContext context) en C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\MyClassLibrary\MyClassLibrary\EventsHandler.cs:línea 27
+   en lambda_method(Closure , Object , Object , IMessageHandlerContext )
+   en NServiceBus.Pipeline.MessageHandler.Invoke(Object message, IMessageHandlerContext handlerContext) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\MessageHandler.cs:línea 43
+   en NServiceBus.InvokeHandlerTerminator.Terminate(IInvokeHandlerContext context) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\InvokeHandlerTerminator.cs:línea 24
+   en NServiceBus.Pipeline.PipelineTerminator`1.Invoke(T context, Func`2 next) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\PipelineTerminator.cs:línea 27
+   en lambda_method(Closure , IInvokeHandlerContext )
+   en NServiceBus.LoadHandlersConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\LoadHandlersConnector.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 33
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:34:03.760 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:34:04.181 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:34:04.212 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:34:04.255 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:34:04.262 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:34:04.270 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:34:04.303 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:35:05.103 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:35:05.532 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:35:05.561 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:35:05.599 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:35:05.606 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:35:05.613 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:35:05.644 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:35:24.617 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3535
+2017-12-21 23:35:24.681 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:43:07.745 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:43:08.164 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:43:08.194 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:43:08.246 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:08.257 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:08.265 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:08.299 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:43:16.115 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3535
+2017-12-21 23:43:16.214 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:43:33.737 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-21 23:43:34.192 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:43:34.222 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:43:34.265 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:34.273 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:34.280 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:34.312 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.
+2017-12-21 23:43:39.450 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 3535
+2017-12-21 23:43:39.530 INFO  ClienteConsola.Program Press 'P' to insert a Contador de Agua, or 'Q' to quit.

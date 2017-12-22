@@ -1,0 +1,246 @@
+﻿2017-12-22 00:08:16.555 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-22 00:08:16.933 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:08:16.965 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:08:16.996 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:08:16.996 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:08:17.011 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:08:17.043 INFO  ClienteConsola.Program Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 00:08:30.041 INFO  ClienteConsola.Program Now, type the desired serial number and press ENTER to proceed
+2017-12-22 00:08:58.258 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-22 00:08:58.588 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:08:58.603 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:08:58.650 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:08:58.650 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:08:58.650 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:08:58.681 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 00:09:02.622 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed
+2017-12-22 00:35:26.708 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-22 00:35:27.229 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:35:27.255 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:35:27.302 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:35:27.302 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:35:27.302 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:35:27.344 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 00:35:39.204 INFO  ClienteConsola.Program Unknown input. Please try again.
+2017-12-22 00:35:39.219 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 0
+2017-12-22 00:35:39.282 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 00:35:39.376 INFO  ClienteConsola.Program Unknown input. Please try again.
+2017-12-22 00:35:39.376 INFO  ClienteConsola.Program Sending ContadorAgua ct, NumSerie = 0
+2017-12-22 00:35:39.391 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 00:35:47.297 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:35:52.030 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:35:52.155 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:35:52.280 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:35:53.950 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:35:55.061 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:35:59.116 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:35:59.132 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:35:59.585 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:38:55.906 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-22 00:38:56.355 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:38:56.379 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:38:56.416 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:38:56.424 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:38:56.431 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:38:56.486 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 00:39:01.154 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:39:06.157 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:39:11.971 INFO  ClienteConsola.Program 
+
+ Write down the trademark of the device and press Enter (Optional field)
+2017-12-22 00:42:04.976 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-22 00:42:05.430 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:42:05.449 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:42:05.496 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:42:05.496 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:42:05.511 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:42:05.542 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 00:42:10.671 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:42:14.644 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:42:18.263 INFO  ClienteConsola.Program 
+
+ Write down the trademark of the device and press Enter (Optional field)
+2017-12-22 00:42:22.703 INFO  ClienteConsola.Program 
+
+ Write down the model of the device and press Enter (Optional field)
+2017-12-22 00:42:28.410 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 00:44:11.063 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-22 00:44:11.470 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:44:11.498 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:44:11.539 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:44:11.548 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:44:11.557 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:44:11.594 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 00:44:16.252 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:44:27.036 INFO  ClienteConsola.Program 
+
+ Write down the trademark of the device and press Enter (Optional field)
+2017-12-22 00:44:30.236 INFO  ClienteConsola.Program 
+
+ Write down the model of the device and press Enter (Optional field)
+2017-12-22 00:45:17.756 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-22 00:45:18.173 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:45:18.204 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:45:18.251 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:45:18.251 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:45:18.267 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:45:18.314 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 00:45:22.265 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:45:22.437 INFO  ClienteConsola.Program 
+
+Now, type the desired serial number and press ENTER to proceed. ONLY NUMERIC VALUES, PLEASE
+2017-12-22 00:45:26.596 INFO  ClienteConsola.Program 
+
+ Write down the trademark of the device and press Enter (Optional field)
+2017-12-22 00:45:30.206 INFO  ClienteConsola.Program 
+
+ Write down the model of the device and press Enter (Optional field)
+2017-12-22 00:45:37.484 INFO  ClienteConsola.Program Sending Device, NumSerie = 325
+2017-12-22 00:45:37.589 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 01:04:23.670 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-22 01:04:24.209 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 01:04:24.240 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 01:04:24.271 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:04:24.287 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:04:24.287 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:04:24.324 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 01:04:55.425 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Salir
+2017-12-22 01:15:46.192 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ClienteConsola\bin\Debug\' with level Info
+2017-12-22 01:15:46.828 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 01:15:46.858 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 01:15:46.900 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:15:46.908 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:15:46.917 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:15:46.954 INFO  ClienteConsola.Program 
+
+Hello. Please, select the device type you want to insert:
+0.- Salir1.- Contador de Agua
+2.- Contador de Luz
+3.- Gateway 
+4.- Modo Formulario

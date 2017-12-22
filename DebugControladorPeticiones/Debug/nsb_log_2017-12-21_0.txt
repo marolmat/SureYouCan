@@ -1,0 +1,302 @@
+﻿2017-12-21 23:13:48.598 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:13:48.982 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:13:49.007 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:13:49.048 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:13:49.054 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:13:49.060 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:13:49.140 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'Messages.DarAltaDispositivo, MyClassLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: d45c6e32-8767-42d8-ba43-a85001630410
+2017-12-21 23:13:49.172 ERROR NServiceBus.RecoverabilityExecutor Moving message 'd45c6e32-8767-42d8-ba43-a85001630410' to the error queue 'error' because processing failed due to an exception:
+NServiceBus.MessageDeserializationException: An error occurred while attempting to extract logical messages from transport message d45c6e32-8767-42d8-ba43-a85001630410 ---> System.Exception: Could not determine type for node: 'DarAltaDispositivo'.
+   en NServiceBus.XmlDeserialization.InferNodeType(XmlNode node, Object parent) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 287
+   en NServiceBus.XmlDeserialization.Process(XmlNode node, Object parent, Type nodeType) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 202
+   en NServiceBus.XmlDeserialization.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 56
+   en NServiceBus.XmlMessageSerializer.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlMessageSerializer.cs:línea 61
+   en NServiceBus.DeserializeLogicalMessagesConnector.Extract(IncomingMessage physicalMessage) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 119
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 46
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 50
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 29
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.UnitOfWorkBehavior.<InvokeUnitsOfWork>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\UnitOfWork\UnitOfWorkBehavior.cs:línea 52
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MutateIncomingTransportMessageBehavior.<InvokeIncomingTransportMessagesMutators>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\MessageMutators\MutateTransportMessage\MutateIncomingTransportMessageBehavior.cs:línea 43
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:13:49.229 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'Messages.DarAltaDispositivo, MyClassLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 5d09ed8a-a619-4e4a-b3ff-a850016358c2
+2017-12-21 23:13:49.240 ERROR NServiceBus.RecoverabilityExecutor Moving message '5d09ed8a-a619-4e4a-b3ff-a850016358c2' to the error queue 'error' because processing failed due to an exception:
+NServiceBus.MessageDeserializationException: An error occurred while attempting to extract logical messages from transport message 5d09ed8a-a619-4e4a-b3ff-a850016358c2 ---> System.Exception: Could not determine type for node: 'DarAltaDispositivo'.
+   en NServiceBus.XmlDeserialization.InferNodeType(XmlNode node, Object parent) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 287
+   en NServiceBus.XmlDeserialization.Process(XmlNode node, Object parent, Type nodeType) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 202
+   en NServiceBus.XmlDeserialization.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 56
+   en NServiceBus.XmlMessageSerializer.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlMessageSerializer.cs:línea 61
+   en NServiceBus.DeserializeLogicalMessagesConnector.Extract(IncomingMessage physicalMessage) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 119
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 46
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 50
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 29
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:13:49.267 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'Messages.DarAltaDispositivo, MyClassLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: cc891ea2-bfc9-42c6-81b6-a850016b4a15
+2017-12-21 23:13:49.277 ERROR NServiceBus.RecoverabilityExecutor Moving message 'cc891ea2-bfc9-42c6-81b6-a850016b4a15' to the error queue 'error' because processing failed due to an exception:
+NServiceBus.MessageDeserializationException: An error occurred while attempting to extract logical messages from transport message cc891ea2-bfc9-42c6-81b6-a850016b4a15 ---> System.Exception: Could not determine type for node: 'DarAltaDispositivo'.
+   en NServiceBus.XmlDeserialization.InferNodeType(XmlNode node, Object parent) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 287
+   en NServiceBus.XmlDeserialization.Process(XmlNode node, Object parent, Type nodeType) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 202
+   en NServiceBus.XmlDeserialization.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 56
+   en NServiceBus.XmlMessageSerializer.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlMessageSerializer.cs:línea 61
+   en NServiceBus.DeserializeLogicalMessagesConnector.Extract(IncomingMessage physicalMessage) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 119
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 46
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 50
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 29
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:13:49.301 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'Messages.DarAltaDispositivo, MyClassLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: cd52bb73-1632-4658-a699-a850016da7f3
+2017-12-21 23:13:49.310 ERROR NServiceBus.RecoverabilityExecutor Moving message 'cd52bb73-1632-4658-a699-a850016da7f3' to the error queue 'error' because processing failed due to an exception:
+NServiceBus.MessageDeserializationException: An error occurred while attempting to extract logical messages from transport message cd52bb73-1632-4658-a699-a850016da7f3 ---> System.Exception: Could not determine type for node: 'DarAltaDispositivo'.
+   en NServiceBus.XmlDeserialization.InferNodeType(XmlNode node, Object parent) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 287
+   en NServiceBus.XmlDeserialization.Process(XmlNode node, Object parent, Type nodeType) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 202
+   en NServiceBus.XmlDeserialization.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 56
+   en NServiceBus.XmlMessageSerializer.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlMessageSerializer.cs:línea 61
+   en NServiceBus.DeserializeLogicalMessagesConnector.Extract(IncomingMessage physicalMessage) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 119
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 46
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 50
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 29
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:13:49.335 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'Messages.DarAltaDispositivo, MyClassLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 451d7ae0-ce28-4632-a3ff-a850016b0c1d
+2017-12-21 23:13:49.348 ERROR NServiceBus.RecoverabilityExecutor Moving message '451d7ae0-ce28-4632-a3ff-a850016b0c1d' to the error queue 'error' because processing failed due to an exception:
+NServiceBus.MessageDeserializationException: An error occurred while attempting to extract logical messages from transport message 451d7ae0-ce28-4632-a3ff-a850016b0c1d ---> System.Exception: Could not determine type for node: 'DarAltaDispositivo'.
+   en NServiceBus.XmlDeserialization.InferNodeType(XmlNode node, Object parent) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 287
+   en NServiceBus.XmlDeserialization.Process(XmlNode node, Object parent, Type nodeType) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 202
+   en NServiceBus.XmlDeserialization.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 56
+   en NServiceBus.XmlMessageSerializer.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlMessageSerializer.cs:línea 61
+   en NServiceBus.DeserializeLogicalMessagesConnector.Extract(IncomingMessage physicalMessage) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 119
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 46
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 50
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 29
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:14:27.644 WARN  NServiceBus.DeserializeLogicalMessagesConnector Could not determine message type from message header 'Messages.DarAltaDispositivo, MyClassLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'. MessageId: 2473dec6-67a4-4171-b107-a850016e8534
+2017-12-21 23:14:27.656 ERROR NServiceBus.RecoverabilityExecutor Moving message '2473dec6-67a4-4171-b107-a850016e8534' to the error queue 'error' because processing failed due to an exception:
+NServiceBus.MessageDeserializationException: An error occurred while attempting to extract logical messages from transport message 2473dec6-67a4-4171-b107-a850016e8534 ---> System.Exception: Could not determine type for node: 'DarAltaDispositivo'.
+   en NServiceBus.XmlDeserialization.InferNodeType(XmlNode node, Object parent) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 287
+   en NServiceBus.XmlDeserialization.Process(XmlNode node, Object parent, Type nodeType) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 202
+   en NServiceBus.XmlDeserialization.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlDeserialization.cs:línea 56
+   en NServiceBus.XmlMessageSerializer.Deserialize(Stream stream, IList`1 messageTypesToDeserialize) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Serializers\XML\XmlMessageSerializer.cs:línea 61
+   en NServiceBus.DeserializeLogicalMessagesConnector.Extract(IncomingMessage physicalMessage) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 119
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 46
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en NServiceBus.DeserializeLogicalMessagesConnector.ExtractWithExceptionHandling(IncomingMessage message) en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 50
+   en NServiceBus.DeserializeLogicalMessagesConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\DeserializeLogicalMessagesConnector.cs:línea 29
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ReceivePerformanceDiagnosticsBehavior.<Invoke>d__2.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ReceivePerformanceDiagnosticsBehavior.cs:línea 40
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.ProcessingStatisticsBehavior.<Invoke>d__0.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Performance\Statistics\ProcessingStatisticsBehavior.cs:línea 27
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.TransportReceiveToPhysicalMessageProcessingConnector.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\Incoming\TransportReceiveToPhysicalMessageProcessingConnector.cs:línea 37
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en NServiceBus.MainPipelineExecutor.<Invoke>d__1.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Pipeline\MainPipelineExecutor.cs:línea 32
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.ValidateEnd(Task task)
+   en NServiceBus.LearningTransportMessagePump.<ProcessFile>d__9.MoveNext() en C:\BuildAgent\work\a93f853f0c1b9532\src\NServiceBus.Core\Transports\Learning\LearningTransportMessagePump.cs:línea 277
+2017-12-21 23:23:04.358 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:23:04.701 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:23:04.730 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:23:04.779 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:04.787 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:04.794 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:31.162 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:23:31.421 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:23:31.449 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:23:31.487 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:31.494 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:23:31.501 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:24:04.052 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:24:04.383 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:24:04.412 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:24:04.449 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:24:04.455 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:24:04.461 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:26:39.765 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:26:40.150 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:26:40.180 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:26:40.224 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:26:40.232 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:26:40.239 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:27:24.475 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:27:24.810 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:27:24.833 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:27:24.874 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:27:24.881 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:27:24.888 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:30:00.827 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:30:01.213 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:30:01.243 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:30:01.287 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:30:01.295 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:30:01.303 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:33:03.917 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:33:04.261 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:33:04.289 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:33:04.330 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:33:04.339 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:33:04.346 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:34:03.799 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:34:04.151 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:34:04.181 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:34:04.219 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:34:04.226 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:34:04.236 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:35:05.141 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:35:05.491 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:35:05.523 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:35:05.560 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:35:05.566 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:35:05.573 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:07.785 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:43:08.141 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:43:08.172 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:43:08.214 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:08.223 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:08.231 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:33.775 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-21 23:43:34.146 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-21 23:43:34.172 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-21 23:43:34.217 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:34.224 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-21 23:43:34.231 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.

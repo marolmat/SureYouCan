@@ -1,0 +1,56 @@
+﻿2017-12-22 00:35:26.737 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-22 00:35:27.184 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:35:27.214 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:35:27.255 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:35:27.255 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:35:27.271 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:38:55.944 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-22 00:38:56.327 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:38:56.358 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:38:56.396 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:38:56.403 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:38:56.408 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:42:05.022 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-22 00:42:05.400 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:42:05.431 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:42:05.464 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:42:05.480 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:42:05.480 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:44:11.117 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-22 00:44:11.454 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:44:11.484 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:44:11.528 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:44:11.538 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:44:11.548 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:45:17.805 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-22 00:45:18.173 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 00:45:18.204 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 00:45:18.251 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:45:18.251 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 00:45:18.267 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:04:23.728 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-22 01:04:24.172 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 01:04:24.204 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 01:04:24.240 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:04:24.240 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:04:24.256 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:15:46.235 INFO  DefaultFactory Logging to 'C:\Users\mimon\Documents\REPOSITORIOS GIT\SchneiderTest\ControladorPeticiones\bin\Debug\' with level Info
+2017-12-22 01:15:46.779 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '21/12/2017'
+
+2017-12-22 01:15:46.808 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'DESKTOP-48DQNDE\mimon' to group 'Usuarios del monitor de sistema' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Usuarios del monitor de sistema" "DESKTOP-48DQNDE\mimon" /add
+2017-12-22 01:15:46.852 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:15:46.860 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2017-12-22 01:15:46.866 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
